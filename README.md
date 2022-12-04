@@ -11,6 +11,9 @@ Kotlin
 SQLight
 Draw.IO
 
+## Development time
+Start date of 12/02/2022
+
 
 
 
